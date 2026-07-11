@@ -22,6 +22,7 @@
 
 | # | ファイル | フェーズ | 主題 |
 |:-:|:--|:--|:--|
+| 00 | [00-evolution-of-generative-ai.md](00-evolution-of-generative-ai.md) | 序章 | 生成 AI の進化 (確率の子 → 推論する相棒) |
 | 01 | [01-instructional-design-and-generative-ai.md](01-instructional-design-and-generative-ai.md) | 総論 | 授業設計 (ID) と生成 AI |
 | 02 | [02-addie-analysis-teacher-self-understanding.md](02-addie-analysis-teacher-self-understanding.md) | Analysis | 教師の自己分析 |
 | 03 | [03-addie-analysis-learner-analysis.md](03-addie-analysis-learner-analysis.md) | Analysis | 学習者分析 |
