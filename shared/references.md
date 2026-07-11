@@ -5,20 +5,20 @@
 
 ## 教育学 (Learning Theory & Instructional Design)
 
-- <a id="bloom-1956"></a>Bloom, B. S. (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals*. David McKay.
+- <a id="bloom-1956"></a>Bloom, B. S. (Ed.). (1956). *Taxonomy of Educational Objectives: The Classification of Educational Goals. Handbook I: Cognitive Domain*. David McKay.
 - <a id="anderson-krathwohl-2001"></a>Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. Longman.
 - <a id="gagne-1985"></a>Gagné, R. M. (1985). *The Conditions of Learning and Theory of Instruction* (4th ed.). Holt, Rinehart & Winston.
 - <a id="mager-1997"></a>Mager, R. F. (1997). *Preparing Instructional Objectives* (3rd ed.). Center for Effective Performance.
 - <a id="vygotsky-1978"></a>Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
 - <a id="collins-brown-newman-1989"></a>Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive Apprenticeship: Teaching the Crafts of Reading, Writing, and Mathematics. In *Knowing, Learning, and Instruction*. Lawrence Erlbaum.
-- <a id="black-wiliam-1998"></a>Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education*, 5(1), 7–74.
+- <a id="black-wiliam-1998"></a>Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice*, 5(1), 7–74.
 - <a id="wiggins-mctighe-2005"></a>Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD.
 - <a id="cast-udl-guidelines"></a>CAST. (2018). *Universal Design for Learning Guidelines version 2.2*. Wakefield, MA: CAST. <https://udlguidelines.cast.org/>
 - <a id="wood-bruner-ross-1976"></a>Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89–100.
 - <a id="black-wiliam-1998-inside"></a>Black, P., & Wiliam, D. (1998). Inside the Black Box: Raising Standards Through Classroom Assessment. *Phi Delta Kappan*, 80(2), 139–148.
 - <a id="earl-2003"></a>Earl, L. M. (2003). *Assessment as Learning: Using Classroom Assessment to Maximize Student Learning*. Corwin.
-- <a id="andrade-2000"></a>Andrade, H. G. (2000). Using Rubrics to Promote Thinking and Learning. *Educational Leadership*, 57(5), 13–19.
-- <a id="tripp-bichelmeyer-1990"></a>Tripp, S. D., & Bichelmeyer, B. (1990). Rapid Prototyping: An Alternative Instructional Design Strategy. *Educational Technology Research and Development*, 38(1), 31–44.
+- <a id="andrade-2000"></a>Andrade, H. G. (2000). Using Rubrics to Promote Thinking and Learning. *Educational Leadership*, 57(5), 13–18.
+- <a id="tripp-bichelmeyer-1990"></a>Tripp, S. D., & Bichelmeyer, B. A. (1990). Rapid Prototyping: An Alternative Instructional Design Strategy. *Educational Technology Research and Development*, 38(1), 31–44.
 - <a id="allen-ryan-1969"></a>Allen, D. W., & Ryan, K. (1969). *Microteaching*. Addison-Wesley.
 - <a id="novak-1999"></a>Novak, G. M., Gavrin, A. D., Christian, W., & Patterson, E. T. (1999). *Just-in-Time Teaching: Blending Active Learning with Web Technology*. Prentice Hall.
 - <a id="kirkpatrick-1994"></a>Kirkpatrick, D. L. (1994). *Evaluating Training Programs: The Four Levels*. Berrett-Koehler. (原型は 1959 年の一連の論文)
@@ -35,7 +35,7 @@
 ## AI × 教育 (AI in Education)
 
 - <a id="unesco-2023"></a>UNESCO (2023). *Guidance for Generative AI in Education and Research*.
-- <a id="mollick-2024"></a>Mollick, E., & Mollick, L. (2024). *Instructors as Innovators: A Future-Focused Approach to New AI Learning Opportunities*.
+- <a id="mollick-2024"></a>Mollick, E., & Mollick, L. (2024). *Instructors as Innovators: A Future-Focused Approach to New AI Learning Opportunities, Along with Prompts*. SSRN Working Paper.
 - <a id="dellacqua-2023-placeholder"></a>Dell'Acqua, F., McFowland, E., Mollick, E., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F., & Lakhani, K. R. (2023). Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality. *Harvard Business School Working Paper*, 24-013.
 
 ## ADDIE / インストラクショナルデザイン

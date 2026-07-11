@@ -114,7 +114,7 @@
 | ツール | 何を測るか | 所要 | URL |
 | :----- | :--------- | :--: | :-- |
 | 16Personalities (日本語) | 4 軸 + アイデンティティで性格傾向を可視化 | 約 12 分 | <https://www.16personalities.com/ja> |
-| 多重知能テスト (LiteracyNet, 英語) | 8 種類の知能のバランスを可視化 | 約 15 分 | <https://www.literacynet.org/mi/assessment/findyourstrengths.html> |
+| 多重知能テスト (hitostat, 日本語) | 8 種類の知能のバランスを可視化 | 約 15 分 | <https://hitostat.com/ja/tests/multiple-intelligences-test/new> |
 
 ### まず、大事な前置き
 

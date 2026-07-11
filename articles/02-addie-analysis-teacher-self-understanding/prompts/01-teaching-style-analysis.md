@@ -17,7 +17,7 @@
 
 1. [16Personalities (日本語)](https://www.16personalities.com/ja) を受検し、
    結果ページの **タイプコード**・**5 側面のスコア**・**性格の強み/弱み記述** をコピーする
-2. 多重知能テスト (例: [LiteracyNet MI Assessment](https://www.literacynet.org/mi/assessment/findyourstrengths.html))
+2. 多重知能テスト (例: [hitostat 多重知能テスト (日本語)](https://hitostat.com/ja/tests/multiple-intelligences-test/new))
    を受検し、**8 知能のスコア (0–5 など)** をコピーする
 3. 下のテンプレートの `<...>` 部分を置換して LLM に投入する
 4. 出力後、**反証プロンプト (Section 追記)** を必ず続けて実行する
@@ -65,7 +65,7 @@
   <結果ページの記述をそのまま貼り付け>
 
 # 入力: 多重知能 (MI) テスト結果
-- 使用テスト名: <例: LiteracyNet Multiple Intelligences Assessment>
+- 使用テスト名: <例: hitostat 多重知能テスト>
 - 8 知能のスコア (満点 <例: 5>):
   - 言語的 (Linguistic): <スコア>
   - 論理数学的 (Logical-Mathematical): <スコア>
