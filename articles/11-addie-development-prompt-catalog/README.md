@@ -1,8 +1,8 @@
-# 第11回: Development — プロンプト・パターンカタログ (中間ふりかえり)
+# 第11回: 開発 (Development) — プロンプトパターンカタログ (Prompt Pattern Catalog、中間ふりかえり)
 
 <!-- nav:start -->
 
-[← 第10回: 差異化と多モダリティ](../10-addie-development-differentiation/README.md) ・ [🏠 連載トップ](../../README.md) ・ [🗺 全体設計](../../shared/series-plan.md) ・ [第12回: 授業前リハーサル →](../12-addie-implementation-rehearsal/README.md)
+[← 第10回: 個別最適化と多モダリティ](../10-addie-development-differentiation/README.md) ・ [🏠 連載トップ](../../README.md) ・ [🗺 全体設計](../../shared/series-plan.md) ・ [第12回: 授業前リハーサル →](../12-addie-implementation-rehearsal/README.md)
 
 <!-- nav:end -->
 
@@ -22,7 +22,7 @@
 - 第9-10回までに登場したプロンプトを **教材タイプ別** に整理する考え方
 - 学年で **共有できる形** に落とすカタログの標準構造
 - カタログ化のときに **やってはいけないこと** (機微情報の混入、丸暗記化)
-- Prompt Pattern Catalog [[White et al. 2023]](../../shared/references.md#white-2023)
+- プロンプトパターンカタログ [[White et al. 2023]](../../shared/references.md#white-2023)
   の考え方を教育現場に翻訳する試み
 - 佐藤先生と同僚 3 名で **「校内プロンプト辞書」の初版** を作る回
 
@@ -36,8 +36,12 @@
 
 第1-10回で佐藤 美咲先生 (高校国語、INFJ-A) は、自己診断 →
 学級プロファイル → 逆向き設計 → ルーブリック共作 → 授業構造 →
-教材ドラフト → 差異化と、多くのプロンプトを試してきました。
+教材ドラフト → 個別最適化と、多くのプロンプトを試してきました。
 本回は **中間ふりかえり** として、それらを **カタログ化** します。
+
+> [!NOTE] ADDIE (アディー) をはじめて聞く方へ
+> ADDIE は、授業や教材づくりを「分析→設計→開発→実施→評価」の順に見直すための基本モデルです。
+> 本連載では、各段階を行き来しながら、AI の使いどころを検討します。
 
 ---
 
@@ -99,7 +103,7 @@ White et al. (2023) は、AI プロンプトを **設計パターン** として
 
 - **「役割指定 → 対象学年 → 制約 → 期待出力形式」** という骨格
 - **「原案 → 反証 → 修正」の 3 段ループ**
-- **「Tier 1/2/3 の足場分岐」の生成テンプレ**
+- **「階層 1/2/3 (Tier 1/2/3) の足場分岐」の生成テンプレ**
 
 こうした **再利用可能な骨格** に名前を付け、いつでも呼び出せる
 形にすることが「カタログ化」です。
@@ -342,7 +346,7 @@ White et al. (2023) は、AI プロンプトを **設計パターン** として
 
 ### 次の一歩
 
-第12回では **Implementation フェーズ** に入り、授業の **前夜**
+第12回では **実施 (Implementation) 段階** に入り、授業の **前夜**
 に AI を "学習者役" として使うリハーサル手法を扱います。
 カタログに貯めたプロンプトが、次の場面でどう活きるかを見ていきます。
 
@@ -371,6 +375,6 @@ White et al. (2023) は、AI プロンプトを **設計パターン** として
 
 <!-- nav:start -->
 
-[← 第10回: 差異化と多モダリティ](../10-addie-development-differentiation/README.md) ・ [🏠 連載トップ](../../README.md) ・ [🗺 全体設計](../../shared/series-plan.md) ・ [第12回: 授業前リハーサル →](../12-addie-implementation-rehearsal/README.md)
+[← 第10回: 個別最適化と多モダリティ](../10-addie-development-differentiation/README.md) ・ [🏠 連載トップ](../../README.md) ・ [🗺 全体設計](../../shared/series-plan.md) ・ [第12回: 授業前リハーサル →](../12-addie-implementation-rehearsal/README.md)
 
 <!-- nav:end -->

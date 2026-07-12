@@ -1,4 +1,4 @@
-# 第3回: Analysis — 学習者分析 / 40 人の顔を思い浮かべる
+# 第3回: 分析 (Analysis) — 学習者分析 / 40 人の顔を思い浮かべる
 
 <!-- nav:start -->
 
@@ -15,6 +15,12 @@
 - **想定読了時間:** 通読 約 20〜25 分 (プロンプトを実際に試す場合は +30 分程度)
 
 ---
+
+> [!NOTE]
+> **ADDIE (アディー) をはじめて聞く方へ**
+> ADDIE は授業設計の代表的な進め方で、**分析 (Analysis) → 設計 (Design) →
+> 開発 (Development) → 実施 (Implementation) → 評価 (Evaluation)** の
+> 5 段階を行き来しながら、授業を改善していく考え方です。
 
 ## この回で一緒にたどるもの
 
@@ -72,7 +78,7 @@
 
 ## 第2章 ── なぜ「学習者分析」から設計を始めるのか
 
-授業設計 (ID) の Analysis フェーズには、**学習者・タスク・環境** の 3 本柱があります。
+授業設計 (ID) の分析段階には、**学習者・タスク・環境** の 3 本柱があります。
 このうち **学習者分析** を最初に置く理由は、シンプルです。
 
 ### 理由 1: 「クラスの中央値」向けの授業は、実は誰にも届かない
@@ -88,9 +94,9 @@
 先に **あなたの学級の実像** を AI に共有しておかないと、
 どの提案も「なんとなくズレている」ものになります。
 
-### 理由 3: ZPD (発達の最近接領域) は、個々に違う
+### 理由 3: 発達の最近接領域 (ZPD) は、個々に違う
 
-ヴィゴツキーが提唱した **発達の最近接領域** — 「一人ではまだできないが、
+Vygotsky が提唱した **発達の最近接領域** — 「一人ではまだできないが、
 誰かの助けがあればできる領域」 — は生徒ごとに違います
 [[Vygotsky 1978]](../../shared/references.md#vygotsky-1978)。
 "どこに足場をかけるか" を考えるには、
@@ -247,7 +253,7 @@ S1: 現代文の感想で "倫理判断の相対化" 傾向。
 2 本目
 ([`prompts/02-zpd-hypothesis-generator.md`](prompts/02-zpd-hypothesis-generator.md))
 では、**次の単元「羅生門」** に向けて、
-クラスタごとに ZPD (発達の最近接領域) の **仮説** を書きます。
+クラスタごとに発達の最近接領域 (ZPD) の **仮説** を書きます。
 
 ### AI の実行結果 (抜粋, C1・C2・C3 のみ)
 
@@ -283,16 +289,16 @@ S1: 現代文の感想で "倫理判断の相対化" 傾向。
 
 3 本目
 ([`prompts/03-udl-diversity-checker.md`](prompts/03-udl-diversity-checker.md))
-は、**UDL (Universal Design for Learning)** の 3 原則で
+は、**UDL の 3 原則**で
 学級プロファイルを "斜めから" 見直します。
 
 UDL の 3 原則を、日常語で言い換えるとこうです。
 
 | UDL 原則 | ざっくり言うと | 授業での問い |
 | :-- | :-- | :-- |
-| Engagement (取り組み) | **やる気の入り口** はひとつじゃない | 何が動機になる？ 選択肢はあるか？ |
-| Representation (提示) | **情報の受け取り方** はひとつじゃない | 見る/聞く/読む、どの経路がある？ |
-| Action & Expression (表現) | **アウトプットの仕方** はひとつじゃない | 話す/書く/描く、選べるか？ |
+| 取り組み (Engagement) | **やる気の入り口** はひとつじゃない | 何が動機になる？ 選択肢はあるか？ |
+| 提示 (Representation) | **情報の受け取り方** はひとつじゃない | 見る/聞く/読む、どの経路がある？ |
+| 表現 (Action & Expression) | **アウトプットの仕方** はひとつじゃない | 話す/書く/描く、選べるか？ |
 
 ### AI の実行結果 (指摘の抜粋)
 
@@ -451,10 +457,10 @@ A. UDL は元々 **すべての学習者を対象にした設計原則** で、
 - **発達の最近接領域 (ZPD):** Vygotsky の社会文化的発達理論。
   「一人ではまだできないが、他者の支援があればできる領域」を指す
   [[Vygotsky 1978]](../../shared/references.md#vygotsky-1978)
-- **UDL (Universal Design for Learning):** CAST が提唱した学習設計フレーム。
+- **UDL:** CAST が提唱した学習設計フレーム。
   Engagement / Representation / Action & Expression の 3 原則で
   学習者の多様性を織り込む [[CAST 2018]](../../shared/references.md#cast-udl-guidelines)
-- **Scaffolding (足場かけ):** Wood, Bruner, Ross による学習支援理論
+- **スキャフォルディング (足場かけ):** Wood, Bruner, Ross による学習支援理論
   [[Wood, Bruner & Ross 1976]](../../shared/references.md#wood-bruner-ross-1976)
 - **クラスタ分析と教育的判断:** 統計的クラスタリングを教育に用いる際は、
   「集約は仮説であって分類ではない」という限定が必須
@@ -473,21 +479,21 @@ A. UDL は元々 **すべての学習者を対象にした設計原則** で、
 | 回 | フェーズ | 主題 |
 | :-: | :------ | :--- |
 | 01 | 総論 | [授業設計 (ID) と生成 AI](../01-instructional-design-and-generative-ai/README.md) |
-| 02 | Analysis | [教師の自己分析](../02-addie-analysis-teacher-self-understanding/README.md) |
-| **03 (本稿)** | **Analysis** | **学習者分析** |
-| 04 | Analysis | [タスク分析](../04-addie-analysis-task-analysis/README.md) |
-| 05 | Analysis | [環境・制約分析](../05-addie-analysis-context-analysis/README.md) |
-| 06 | Design | [逆向き設計](../06-addie-design-backward-design/README.md) |
-| 07 | Design | [ルーブリックの共同設計](../07-addie-design-rubric-codesign/README.md) |
-| 08 | Design | [授業構造 (Gagné × Merrill)](../08-addie-design-lesson-structure/README.md) |
-| 09 | Development | [教材ドラフトと査読ループ](../09-addie-development-material-draft/README.md) |
-| 10 | Development | [差異化と多モダリティ](../10-addie-development-differentiation/README.md) |
-| 11 | Development | [プロンプト・パターンカタログ](../11-addie-development-prompt-catalog/README.md) |
-| 12 | Implementation | [授業前リハーサル](../12-addie-implementation-rehearsal/README.md) |
-| 13 | Implementation | [授業中の AI ファシリテーション](../13-addie-implementation-in-class-ai/README.md) |
-| 14 | Evaluation | [形成的評価](../14-addie-evaluation-formative/README.md) |
-| 15 | Evaluation | [総括的評価とポートフォリオ](../15-addie-evaluation-summative/README.md) |
-| 16 | Evaluation | [プログラム評価と次サイクル](../16-addie-evaluation-program/README.md) |
+| 02 | 分析 | [教師の自己分析](../02-addie-analysis-teacher-self-understanding/README.md) |
+| **03 (本稿)** | **分析** | **学習者分析** |
+| 04 | 分析 | [タスク分析](../04-addie-analysis-task-analysis/README.md) |
+| 05 | 分析 | [環境・制約分析](../05-addie-analysis-context-analysis/README.md) |
+| 06 | 設計 | [逆向き設計](../06-addie-design-backward-design/README.md) |
+| 07 | 設計 | [ルーブリックの共同設計](../07-addie-design-rubric-codesign/README.md) |
+| 08 | 設計 | [授業構造 (Gagné × Merrill)](../08-addie-design-lesson-structure/README.md) |
+| 09 | 開発 | [教材ドラフトと査読ループ](../09-addie-development-material-draft/README.md) |
+| 10 | 開発 | [差異化と多モダリティ](../10-addie-development-differentiation/README.md) |
+| 11 | 開発 | [プロンプト・パターンカタログ](../11-addie-development-prompt-catalog/README.md) |
+| 12 | 実施 | [授業前リハーサル](../12-addie-implementation-rehearsal/README.md) |
+| 13 | 実施 | [授業中の AI ファシリテーション](../13-addie-implementation-in-class-ai/README.md) |
+| 14 | 評価 | [形成的評価](../14-addie-evaluation-formative/README.md) |
+| 15 | 評価 | [総括的評価とポートフォリオ](../15-addie-evaluation-summative/README.md) |
+| 16 | 評価 | [プログラム評価と次サイクル](../16-addie-evaluation-program/README.md) |
 | 17 | ふりかえり | [佐藤先生の 1 年後](../17-reflection-one-year-later/README.md) |
 
 > [!NOTE]
