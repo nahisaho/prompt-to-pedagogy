@@ -12,12 +12,12 @@
 
 ## 📚 記事一覧
 
-> **推奨読み順**: **特別編 第 2 回 (俯瞰マップ) → 特別編 第 1 回 (校務への応用) → 本編 第 1〜17 回 (授業設計への応用)**
+> **推奨読み順**: **特別編 第 0 回 (俯瞰マップ) → 特別編 第 1 回 (校務への応用) → 本編 第 1〜17 回 (授業設計への応用)**
 > の順で読むと、6 層モデルという同じ視点で連載全体を通貫できます。
 
 | 読む順 | No. | タイトル | ステータス | ディレクトリ |
 | :-: | :-: | :------ | :-------: | :---------- |
-| 1  | S2  | **特別編 第2回:** プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか (**俯瞰マップ / 6 層モデル**) | 公開 | [`articles/special-02-beyond-prompts/`](articles/special-02-beyond-prompts/) |
+| 1  | S0  | **特別編 第0回:** 時短のその先へ — 生成 AI で "教師にしかできない仕事" を実現する (**俯瞰マップ / 6 層モデル**) | 公開 | [`articles/special-00-beyond-prompts/`](articles/special-00-beyond-prompts/) |
 | 2  | S1  | **特別編 第1回:** 学校の働き方改革を変える生成 AI の使い方 (**6 層を校務に応用**) | 公開 | [`articles/special-01-work-style-reform-ai/`](articles/special-01-work-style-reform-ai/) |
 | 3  | 01  | 第1回: Instructional Design と生成 AI | 公開 | [`articles/01-instructional-design-and-generative-ai/`](articles/01-instructional-design-and-generative-ai/) |
 | 4  | 02  | 第2回: Analysis — 佐藤先生が自分を分析した日 | 公開 | [`articles/02-addie-analysis-teacher-self-understanding/`](articles/02-addie-analysis-teacher-self-understanding/) |

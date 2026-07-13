@@ -20,11 +20,11 @@
 
 ## 一覧
 
-> **推奨読み順**: **S2 (俯瞰マップ) → S1 (校務への応用) → 00〜17 (授業設計への応用)**
+> **推奨読み順**: **S0 (俯瞰マップ) → S1 (校務への応用) → 00〜17 (授業設計への応用)**
 
 | 読む順 | # | ファイル | フェーズ | 主題 |
 |:-:|:-:|:--|:--|:--|
-|  1 | S2 | [special-02-beyond-prompts.md](special-02-beyond-prompts.md) | **特別編 (俯瞰マップ)** | プロンプトの先へ — 6 層モデル |
+|  1 | S0 | [special-00-beyond-prompts.md](special-00-beyond-prompts.md) | **特別編 (俯瞰マップ)** | 時短のその先へ — 生成 AI で "教師にしかできない仕事" を実現する |
 |  2 | S1 | [special-01-work-style-reform-ai.md](special-01-work-style-reform-ai.md) | **特別編 (校務応用)** | 学校の働き方改革を変える生成 AI の使い方 |
 |  3 | 00 | [00-evolution-of-generative-ai.md](00-evolution-of-generative-ai.md) | 序章 | 生成 AI の進化 (確率の子 → 推論する相棒) |
 |  4 | 01 | [01-instructional-design-and-generative-ai.md](01-instructional-design-and-generative-ai.md) | 総論 | 授業設計 (ID) と生成 AI |
