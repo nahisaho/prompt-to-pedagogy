@@ -1,6 +1,6 @@
 # 第1回 プレゼン: 授業設計 (ID) と生成 AI — この連載への招待
 
-- **対応記事:** [articles/01-instructional-design-and-generative-ai/README.md](../articles/01-instructional-design-and-generative-ai/README.md)
+- **対応記事:** [articles/01-instructional-design-and-generative-ai/README.md](../../articles/01-instructional-design-and-generative-ai/README.md)
 - **想定時間:** 約 20〜25 分 (Q&A 含めず)
 - **スライド数:** 15
 - **対象:** AI・ID に精通していない現職教員、教育関係者
@@ -167,4 +167,4 @@ Q&A 形式のカード 4 枚を対称に配置。Q1: AI に詳しくないけど
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>

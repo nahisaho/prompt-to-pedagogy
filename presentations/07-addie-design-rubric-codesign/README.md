@@ -1,6 +1,6 @@
 # 第7回 プレゼン: ルーブリック共同設計 — 生徒とつくる評価
 
-- **対応記事:** [articles/07-addie-design-rubric-codesign/README.md](../articles/07-addie-design-rubric-codesign/README.md)
+- **対応記事:** [articles/07-addie-design-rubric-codesign/README.md](../../articles/07-addie-design-rubric-codesign/README.md)
 - **想定時間:** 約 20〜25 分 (Q&A 含めず)
 - **スライド数:** 14
 - **対象:** 評価基準を生徒と共有し、AI 下書きを安全に活用したい教員
@@ -179,4 +179,4 @@
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>

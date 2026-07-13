@@ -1,6 +1,6 @@
 # 第9回 プレゼン: 教材ドラフトと査読ループ — 良い下書きは良い査読が作る
 
-- **対応記事:** [articles/09-addie-development-material-draft/README.md](../articles/09-addie-development-material-draft/README.md)
+- **対応記事:** [articles/09-addie-development-material-draft/README.md](../../articles/09-addie-development-material-draft/README.md)
 - **想定時間:** 約 20〜25 分 (Q&A 含めず)
 - **スライド数:** 15
 - **対象:** AIで教材初版を作り、同僚・生徒モニターと安全に改善したい教員
@@ -191,4 +191,4 @@ AIっぽさは、誤りだけでなく文体やリズムにも出ます。配布
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>

@@ -2,7 +2,7 @@
 
 **— "上手な聞き方" の先にある 5 つの設計層 —**
 
-- 📎 対応プレゼン: [`presentations/special-02-beyond-prompts.md`](../../presentations/special-02-beyond-prompts.md)
+- 📎 対応プレゼン: [`presentations/special-02-beyond-prompts/`](../../presentations/special-02-beyond-prompts/)
 - 🧵 **位置づけ (本連載の最初に読む章)**: 本連載全体を貫く **俯瞰モデル (6 層)**。
   この後に続く「特別編 第 1 回 (働き方改革)」と「本編 第 1〜17 回 (ADDIE 授業設計)」を、
   同じ 6 層の視点で読み解くための **読み方の地図** として先に置きます。
@@ -508,7 +508,7 @@ Few-shot、ロール指定、フォーマット指定。参加者アンケート
 
 ## 参考文献
 
-- 本連載 [第 0 回 生成 AI の進化](../../presentations/00-evolution-of-generative-ai.md) — プロンプト / コンテキスト /
+- 本連載 [第 0 回 生成 AI の進化](../../presentations/00-evolution-of-generative-ai/) — プロンプト / コンテキスト /
   プロセスエンジニアリングの 3 段階 (本編の入口)
 - 本連載 [第 1 回 授業設計と生成 AI](../01-instructional-design-and-generative-ai/README.md) — 5 つの設計原則 (本稿 6 層との対応表を第 3 章参照)
 - 本連載 [特別編 第 1 回 学校の働き方改革](../special-01-work-style-reform-ai/README.md) — 6 層を校務に応用 (次に読む章)

@@ -447,7 +447,7 @@ Suggestion 級の指摘をすべて反映済み。主な修正:
 - 参照: 太田浩史 (2026) *ビジネス+IT* / Microsoft Build 2026
   の「非同期の同僚 / サブエージェント / Foundry」概念を学校文脈へ翻訳
 - 本編 5 原則 (特に原則 1・5) と地続き。個人情報最小権限は共通の柱
-- プレゼンは [`presentations/special-01-work-style-reform-ai.md`](../presentations/special-01-work-style-reform-ai.md) (15 スライド)
+- プレゼンは [`presentations/special-01-work-style-reform-ai/`](../presentations/special-01-work-style-reform-ai/) (15 スライド)
 
 ### S2 の位置づけ
 
@@ -456,4 +456,4 @@ Suggestion 級の指摘をすべて反映済み。主な修正:
   で解剖
 - 本稿の 5 層モデルは、**本編 17 回と特別編 S1 を貫く俯瞰図** として機能する
 - 教職員研修担当、管理職、教育委員会向けの視点も含む
-- プレゼンは [`presentations/special-02-beyond-prompts.md`](../presentations/special-02-beyond-prompts.md) (15 スライド)
+- プレゼンは [`presentations/special-02-beyond-prompts/`](../presentations/special-02-beyond-prompts/) (15 スライド)
