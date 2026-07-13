@@ -40,6 +40,7 @@
 | 15 | [15-addie-evaluation-summative.md](15-addie-evaluation-summative.md) | Evaluation | 総括的評価 |
 | 16 | [16-addie-evaluation-program.md](16-addie-evaluation-program.md) | Evaluation | プログラム評価 |
 | 17 | [17-reflection-one-year-later.md](17-reflection-one-year-later.md) | Reflection | 1 年後のふりかえり |
+| S1 | [special-01-work-style-reform-ai.md](special-01-work-style-reform-ai.md) | 特別編 | 学校の働き方改革を変える生成 AI の使い方 |
 
 ## 使い方
 

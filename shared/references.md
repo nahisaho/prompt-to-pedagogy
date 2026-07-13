@@ -53,3 +53,10 @@
 - <a id="gardner-1983-placeholder"></a>Gardner, H. (1983/2011). *Frames of Mind: The Theory of Multiple Intelligences*. Basic Books.
 - <a id="pittenger-2005-placeholder"></a>Pittenger, D. J. (2005). Cautionary Comments Regarding the Myers-Briggs Type Indicator. *Consulting Psychology Journal: Practice and Research*, 57(3), 210–221.
 - <a id="waterhouse-2006-placeholder"></a>Waterhouse, L. (2006). Multiple Intelligences, the Mozart Effect, and Emotional Intelligence: A Critical Review. *Educational Psychologist*, 41(4), 207–225.
+
+## 学校の働き方改革 / 校務 DX (School Work-Style Reform)
+
+- <a id="mext-genai-guideline-2024"></a>文部科学省 (2024). 『初等中等教育段階における生成 AI の利活用に関するガイドライン Ver.2.0』. <https://www.mext.go.jp/a_menu/other/mext_02412.html>
+- <a id="chukyoshin-2019"></a>中央教育審議会 (2019). 『新しい時代の教育に向けた持続可能な学校指導・運営体制の構築のための学校における働き方改革に関する総合的な方策について (答申)』. 中教審第 213 号.
+- <a id="ota-2026"></a>太田浩史 (2026). 「マイクロソフトが本当に伝えたかった…働き方を 180 度変える『次世代 Copilot』の衝撃」. **ビジネス+IT** (SB クリエイティブ), 2026 年 7 月. <https://www.sbbit.jp/article/cont1/185973>
+- <a id="nadella-2026-build"></a>Nadella, S. (2026). Microsoft Build 2026 Keynote: *Be Yourself at Work*. Microsoft.

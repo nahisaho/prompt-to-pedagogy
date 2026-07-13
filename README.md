@@ -31,6 +31,7 @@
 | 15  | 第15回: Evaluation — 総括的評価とポートフォリオ | 準備中 | [`articles/15-addie-evaluation-summative/`](articles/15-addie-evaluation-summative/) |
 | 16  | 第16回: Evaluation — プログラム評価と次サイクル | 準備中 | [`articles/16-addie-evaluation-program/`](articles/16-addie-evaluation-program/) |
 | 17  | 第17回: 佐藤先生の 1 年後 (統合ふりかえり) | 準備中 | [`articles/17-reflection-one-year-later/`](articles/17-reflection-one-year-later/) |
+| S1  | **特別編 第1回:** 学校の働き方改革を変える生成 AI の使い方 | 公開 | [`articles/special-01-work-style-reform-ai/`](articles/special-01-work-style-reform-ai/) |
 
 > [!NOTE]
 > 連載全体の設計・依存関係・各回の詳細は
