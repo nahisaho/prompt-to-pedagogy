@@ -20,28 +20,30 @@
 
 ## 一覧
 
-| # | ファイル | フェーズ | 主題 |
-|:-:|:--|:--|:--|
-| 00 | [00-evolution-of-generative-ai.md](00-evolution-of-generative-ai.md) | 序章 | 生成 AI の進化 (確率の子 → 推論する相棒) |
-| 01 | [01-instructional-design-and-generative-ai.md](01-instructional-design-and-generative-ai.md) | 総論 | 授業設計 (ID) と生成 AI |
-| 02 | [02-addie-analysis-teacher-self-understanding.md](02-addie-analysis-teacher-self-understanding.md) | Analysis | 教師の自己分析 |
-| 03 | [03-addie-analysis-learner-analysis.md](03-addie-analysis-learner-analysis.md) | Analysis | 学習者分析 |
-| 04 | [04-addie-analysis-task-analysis.md](04-addie-analysis-task-analysis.md) | Analysis | タスク分析 |
-| 05 | [05-addie-analysis-context-analysis.md](05-addie-analysis-context-analysis.md) | Analysis | 環境・制約分析 |
-| 06 | [06-addie-design-backward-design.md](06-addie-design-backward-design.md) | Design | 逆向き設計 |
-| 07 | [07-addie-design-rubric-codesign.md](07-addie-design-rubric-codesign.md) | Design | ルーブリック共同設計 |
-| 08 | [08-addie-design-lesson-structure.md](08-addie-design-lesson-structure.md) | Design | 授業構造 |
-| 09 | [09-addie-development-material-draft.md](09-addie-development-material-draft.md) | Development | 教材ドラフト |
-| 10 | [10-addie-development-differentiation.md](10-addie-development-differentiation.md) | Development | 差異化と多モダリティ |
-| 11 | [11-addie-development-prompt-catalog.md](11-addie-development-prompt-catalog.md) | Development | プロンプトカタログ |
-| 12 | [12-addie-implementation-rehearsal.md](12-addie-implementation-rehearsal.md) | Implementation | 授業前リハーサル |
-| 13 | [13-addie-implementation-in-class-ai.md](13-addie-implementation-in-class-ai.md) | Implementation | 授業中の AI |
-| 14 | [14-addie-evaluation-formative.md](14-addie-evaluation-formative.md) | Evaluation | 形成的評価 |
-| 15 | [15-addie-evaluation-summative.md](15-addie-evaluation-summative.md) | Evaluation | 総括的評価 |
-| 16 | [16-addie-evaluation-program.md](16-addie-evaluation-program.md) | Evaluation | プログラム評価 |
-| 17 | [17-reflection-one-year-later.md](17-reflection-one-year-later.md) | Reflection | 1 年後のふりかえり |
-| S1 | [special-01-work-style-reform-ai.md](special-01-work-style-reform-ai.md) | 特別編 | 学校の働き方改革を変える生成 AI の使い方 |
-| S2 | [special-02-beyond-prompts.md](special-02-beyond-prompts.md) | 特別編 | プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか |
+> **推奨読み順**: **S2 (俯瞰マップ) → S1 (校務への応用) → 00〜17 (授業設計への応用)**
+
+| 読む順 | # | ファイル | フェーズ | 主題 |
+|:-:|:-:|:--|:--|:--|
+|  1 | S2 | [special-02-beyond-prompts.md](special-02-beyond-prompts.md) | **特別編 (俯瞰マップ)** | プロンプトの先へ — 6 層モデル |
+|  2 | S1 | [special-01-work-style-reform-ai.md](special-01-work-style-reform-ai.md) | **特別編 (校務応用)** | 学校の働き方改革を変える生成 AI の使い方 |
+|  3 | 00 | [00-evolution-of-generative-ai.md](00-evolution-of-generative-ai.md) | 序章 | 生成 AI の進化 (確率の子 → 推論する相棒) |
+|  4 | 01 | [01-instructional-design-and-generative-ai.md](01-instructional-design-and-generative-ai.md) | 総論 | 授業設計 (ID) と生成 AI |
+|  5 | 02 | [02-addie-analysis-teacher-self-understanding.md](02-addie-analysis-teacher-self-understanding.md) | Analysis | 教師の自己分析 |
+|  6 | 03 | [03-addie-analysis-learner-analysis.md](03-addie-analysis-learner-analysis.md) | Analysis | 学習者分析 |
+|  7 | 04 | [04-addie-analysis-task-analysis.md](04-addie-analysis-task-analysis.md) | Analysis | タスク分析 |
+|  8 | 05 | [05-addie-analysis-context-analysis.md](05-addie-analysis-context-analysis.md) | Analysis | 環境・制約分析 |
+|  9 | 06 | [06-addie-design-backward-design.md](06-addie-design-backward-design.md) | Design | 逆向き設計 |
+| 10 | 07 | [07-addie-design-rubric-codesign.md](07-addie-design-rubric-codesign.md) | Design | ルーブリック共同設計 |
+| 11 | 08 | [08-addie-design-lesson-structure.md](08-addie-design-lesson-structure.md) | Design | 授業構造 |
+| 12 | 09 | [09-addie-development-material-draft.md](09-addie-development-material-draft.md) | Development | 教材ドラフト |
+| 13 | 10 | [10-addie-development-differentiation.md](10-addie-development-differentiation.md) | Development | 差異化と多モダリティ |
+| 14 | 11 | [11-addie-development-prompt-catalog.md](11-addie-development-prompt-catalog.md) | Development | プロンプトカタログ |
+| 15 | 12 | [12-addie-implementation-rehearsal.md](12-addie-implementation-rehearsal.md) | Implementation | 授業前リハーサル |
+| 16 | 13 | [13-addie-implementation-in-class-ai.md](13-addie-implementation-in-class-ai.md) | Implementation | 授業中の AI |
+| 17 | 14 | [14-addie-evaluation-formative.md](14-addie-evaluation-formative.md) | Evaluation | 形成的評価 |
+| 18 | 15 | [15-addie-evaluation-summative.md](15-addie-evaluation-summative.md) | Evaluation | 総括的評価 |
+| 19 | 16 | [16-addie-evaluation-program.md](16-addie-evaluation-program.md) | Evaluation | プログラム評価 |
+| 20 | 17 | [17-reflection-one-year-later.md](17-reflection-one-year-later.md) | Reflection | 1 年後のふりかえり |
 
 ## 使い方
 

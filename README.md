@@ -12,27 +12,30 @@
 
 ## 📚 記事一覧
 
-| No. | タイトル | ステータス | ディレクトリ |
-| :-: | :------ | :-------: | :---------- |
-| 01  | 第1回: Instructional Design と生成 AI | 公開 | [`articles/01-instructional-design-and-generative-ai/`](articles/01-instructional-design-and-generative-ai/) |
-| 02  | 第2回: Analysis — 佐藤先生が自分を分析した日 | 公開 | [`articles/02-addie-analysis-teacher-self-understanding/`](articles/02-addie-analysis-teacher-self-understanding/) |
-| 03  | 第3回: Analysis — 学習者分析 | 公開 | [articles/03-addie-analysis-learner-analysis/](articles/03-addie-analysis-learner-analysis/) |
-| 04  | 第4回: Analysis — タスク分析 | 公開 | [articles/04-addie-analysis-task-analysis/](articles/04-addie-analysis-task-analysis/) |
-| 05  | 第5回: Analysis — 環境・制約分析 | 準備中 | [`articles/05-addie-analysis-context-analysis/`](articles/05-addie-analysis-context-analysis/) |
-| 06  | 第6回: Design — 逆向き設計 | 準備中 | [`articles/06-addie-design-backward-design/`](articles/06-addie-design-backward-design/) |
-| 07  | 第7回: Design — ルーブリックの共同設計 | 準備中 | [`articles/07-addie-design-rubric-codesign/`](articles/07-addie-design-rubric-codesign/) |
-| 08  | 第8回: Design — 授業構造 (Gagné × Merrill) | 準備中 | [`articles/08-addie-design-lesson-structure/`](articles/08-addie-design-lesson-structure/) |
-| 09  | 第9回: Development — 教材ドラフトと査読ループ | 準備中 | [`articles/09-addie-development-material-draft/`](articles/09-addie-development-material-draft/) |
-| 10  | 第10回: Development — 差異化と多モダリティ | 準備中 | [`articles/10-addie-development-differentiation/`](articles/10-addie-development-differentiation/) |
-| 11  | 第11回: Development — プロンプト・パターンカタログ | 準備中 | [`articles/11-addie-development-prompt-catalog/`](articles/11-addie-development-prompt-catalog/) |
-| 12  | 第12回: Implementation — 授業前リハーサル | 準備中 | [`articles/12-addie-implementation-rehearsal/`](articles/12-addie-implementation-rehearsal/) |
-| 13  | 第13回: Implementation — 授業中の AI ファシリテーション | 準備中 | [`articles/13-addie-implementation-in-class-ai/`](articles/13-addie-implementation-in-class-ai/) |
-| 14  | 第14回: Evaluation — 形成的評価 | 準備中 | [`articles/14-addie-evaluation-formative/`](articles/14-addie-evaluation-formative/) |
-| 15  | 第15回: Evaluation — 総括的評価とポートフォリオ | 準備中 | [`articles/15-addie-evaluation-summative/`](articles/15-addie-evaluation-summative/) |
-| 16  | 第16回: Evaluation — プログラム評価と次サイクル | 準備中 | [`articles/16-addie-evaluation-program/`](articles/16-addie-evaluation-program/) |
-| 17  | 第17回: 佐藤先生の 1 年後 (統合ふりかえり) | 準備中 | [`articles/17-reflection-one-year-later/`](articles/17-reflection-one-year-later/) |
-| S1  | **特別編 第1回:** 学校の働き方改革を変える生成 AI の使い方 | 公開 | [`articles/special-01-work-style-reform-ai/`](articles/special-01-work-style-reform-ai/) |
-| S2  | **特別編 第2回:** プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか | 公開 | [`articles/special-02-beyond-prompts/`](articles/special-02-beyond-prompts/) |
+> **推奨読み順**: **特別編 第 2 回 (俯瞰マップ) → 特別編 第 1 回 (校務への応用) → 本編 第 1〜17 回 (授業設計への応用)**
+> の順で読むと、6 層モデルという同じ視点で連載全体を通貫できます。
+
+| 読む順 | No. | タイトル | ステータス | ディレクトリ |
+| :-: | :-: | :------ | :-------: | :---------- |
+| 1  | S2  | **特別編 第2回:** プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか (**俯瞰マップ / 6 層モデル**) | 公開 | [`articles/special-02-beyond-prompts/`](articles/special-02-beyond-prompts/) |
+| 2  | S1  | **特別編 第1回:** 学校の働き方改革を変える生成 AI の使い方 (**6 層を校務に応用**) | 公開 | [`articles/special-01-work-style-reform-ai/`](articles/special-01-work-style-reform-ai/) |
+| 3  | 01  | 第1回: Instructional Design と生成 AI | 公開 | [`articles/01-instructional-design-and-generative-ai/`](articles/01-instructional-design-and-generative-ai/) |
+| 4  | 02  | 第2回: Analysis — 佐藤先生が自分を分析した日 | 公開 | [`articles/02-addie-analysis-teacher-self-understanding/`](articles/02-addie-analysis-teacher-self-understanding/) |
+| 5  | 03  | 第3回: Analysis — 学習者分析 | 公開 | [articles/03-addie-analysis-learner-analysis/](articles/03-addie-analysis-learner-analysis/) |
+| 6  | 04  | 第4回: Analysis — タスク分析 | 公開 | [articles/04-addie-analysis-task-analysis/](articles/04-addie-analysis-task-analysis/) |
+| 7  | 05  | 第5回: Analysis — 環境・制約分析 | 準備中 | [`articles/05-addie-analysis-context-analysis/`](articles/05-addie-analysis-context-analysis/) |
+| 8  | 06  | 第6回: Design — 逆向き設計 | 準備中 | [`articles/06-addie-design-backward-design/`](articles/06-addie-design-backward-design/) |
+| 9  | 07  | 第7回: Design — ルーブリックの共同設計 | 準備中 | [`articles/07-addie-design-rubric-codesign/`](articles/07-addie-design-rubric-codesign/) |
+| 10 | 08  | 第8回: Design — 授業構造 (Gagné × Merrill) | 準備中 | [`articles/08-addie-design-lesson-structure/`](articles/08-addie-design-lesson-structure/) |
+| 11 | 09  | 第9回: Development — 教材ドラフトと査読ループ | 準備中 | [`articles/09-addie-development-material-draft/`](articles/09-addie-development-material-draft/) |
+| 12 | 10  | 第10回: Development — 差異化と多モダリティ | 準備中 | [`articles/10-addie-development-differentiation/`](articles/10-addie-development-differentiation/) |
+| 13 | 11  | 第11回: Development — プロンプト・パターンカタログ | 準備中 | [`articles/11-addie-development-prompt-catalog/`](articles/11-addie-development-prompt-catalog/) |
+| 14 | 12  | 第12回: Implementation — 授業前リハーサル | 準備中 | [`articles/12-addie-implementation-rehearsal/`](articles/12-addie-implementation-rehearsal/) |
+| 15 | 13  | 第13回: Implementation — 授業中の AI ファシリテーション | 準備中 | [`articles/13-addie-implementation-in-class-ai/`](articles/13-addie-implementation-in-class-ai/) |
+| 16 | 14  | 第14回: Evaluation — 形成的評価 | 準備中 | [`articles/14-addie-evaluation-formative/`](articles/14-addie-evaluation-formative/) |
+| 17 | 15  | 第15回: Evaluation — 総括的評価とポートフォリオ | 準備中 | [`articles/15-addie-evaluation-summative/`](articles/15-addie-evaluation-summative/) |
+| 18 | 16  | 第16回: Evaluation — プログラム評価と次サイクル | 準備中 | [`articles/16-addie-evaluation-program/`](articles/16-addie-evaluation-program/) |
+| 19 | 17  | 第17回: 佐藤先生の 1 年後 (統合ふりかえり) | 準備中 | [`articles/17-reflection-one-year-later/`](articles/17-reflection-one-year-later/) |
 
 > [!NOTE]
 > 連載全体の設計・依存関係・各回の詳細は
