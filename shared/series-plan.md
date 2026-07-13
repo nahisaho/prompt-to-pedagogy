@@ -7,7 +7,7 @@
 - **最終更新:** 2026-07-14
 - **著者:** nahisaho
 - **ライセンス:** [CC BY-NC 4.0](../LICENSE)
-- **状態:** **第1〜17回 全17本 公開完了** (2026-07-12) / **特別編 第1回 (働き方改革)** 公開 (2026-07-14)
+- **状態:** **第1〜17回 全17本 公開完了** (2026-07-12) / **特別編 第1回・第2回** 公開 (2026-07-14)
 
 ---
 
@@ -438,6 +438,7 @@ Suggestion 級の指摘をすべて反映済み。主な修正:
 | No. | タイトル | ディレクトリ | 状態 |
 | :-: | :-- | :-- | :-- |
 | S1 | 学校の働き方改革を変える生成 AI の使い方 | [`articles/special-01-work-style-reform-ai/`](../articles/special-01-work-style-reform-ai/) | 公開 (2026-07-14) |
+| S2 | プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか | [`articles/special-02-beyond-prompts/`](../articles/special-02-beyond-prompts/) | 公開 (2026-07-14) |
 
 ### S1 の位置づけ
 
@@ -447,3 +448,12 @@ Suggestion 級の指摘をすべて反映済み。主な修正:
   の「非同期の同僚 / サブエージェント / Foundry」概念を学校文脈へ翻訳
 - 本編 5 原則 (特に原則 1・5) と地続き。個人情報最小権限は共通の柱
 - プレゼンは [`presentations/special-01-work-style-reform-ai.md`](../presentations/special-01-work-style-reform-ai.md) (15 スライド)
+
+### S2 の位置づけ
+
+- 「良い研修だったのに使われない」現象を **5 つの設計層**
+  (⓪ プロンプト / ① コンテキスト / ② プロセス / ③ 判断 / ④ 組織 / ⑤ 目的)
+  で解剖
+- 本稿の 5 層モデルは、**本編 17 回と特別編 S1 を貫く俯瞰図** として機能する
+- 教職員研修担当、管理職、教育委員会向けの視点も含む
+- プレゼンは [`presentations/special-02-beyond-prompts.md`](../presentations/special-02-beyond-prompts.md) (15 スライド)
