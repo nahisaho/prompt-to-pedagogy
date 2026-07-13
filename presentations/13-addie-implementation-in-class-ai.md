@@ -1,6 +1,6 @@
 # 第13回 プレゼン: 授業中の AI ファシリテーション — バックステージ AI
 
-- **対応記事:** [articles/13-addie-implementation-in-class-ai/README.md](../../articles/13-addie-implementation-in-class-ai/README.md)
+- **対応記事:** [articles/13-addie-implementation-in-class-ai/README.md](../articles/13-addie-implementation-in-class-ai/README.md)
 - **想定時間:** 約 25〜30 分 (Q&A 含めず)
 - **スライド数:** 14
 - **対象:** 授業中の AI 活用を検討する教員、ICT・校内 AI ルール担当者
@@ -205,4 +205,4 @@ JiTT の価値は、授業直前の学習者情報を授業に返す点にあり
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>

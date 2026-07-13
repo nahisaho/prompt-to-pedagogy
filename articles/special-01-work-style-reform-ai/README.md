@@ -2,7 +2,7 @@
 
 **— 「一部のアシスタント」から「非同期の同僚」へ —**
 
-- 📎 対応プレゼン: [`presentations/special-01-work-style-reform-ai/`](../../presentations/special-01-work-style-reform-ai/)
+- 📎 対応プレゼン: [`presentations/special-01-work-style-reform-ai.md`](../../presentations/special-01-work-style-reform-ai.md)
 - 🧵 **位置づけ (本連載の 2 番目に読む章)**: 特別編 第 2 回で提示した
   **6 層モデル** を **校務・働き方** に応用する回。授業設計 (本編 第 1〜17 回)
   に入る前に、まず教員の "働き方" と "校務" に生成 AI をどう組み込むかを扱う

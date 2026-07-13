@@ -1,6 +1,6 @@
 # 第8回 プレゼン: 授業構造 — 1コマの骨格を Gagné × Merrill で組む
 
-- **対応記事:** [articles/08-addie-design-lesson-structure/README.md](../../articles/08-addie-design-lesson-structure/README.md)
+- **対応記事:** [articles/08-addie-design-lesson-structure/README.md](../articles/08-addie-design-lesson-structure/README.md)
 - **想定時間:** 約 20〜25 分 (Q&A 含めず)
 - **スライド数:** 15
 - **対象:** 50分授業の流れを可視化し、AIで候補生成・点検したい教員
@@ -191,4 +191,4 @@ Gagné の9事象は便利ですが、すべてを埋めようとすると詰め
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>

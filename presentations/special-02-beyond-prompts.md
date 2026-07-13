@@ -1,6 +1,6 @@
 # 特別編 第2回 プレゼン: プロンプトの書き方だけを教わっても、なぜ授業も校務も変わらないのか
 
-- **対応記事:** [articles/special-02-beyond-prompts/README.md](../../articles/special-02-beyond-prompts/README.md)
+- **対応記事:** [articles/special-02-beyond-prompts/README.md](../articles/special-02-beyond-prompts/README.md)
 - **想定時間:** 約 22〜30 分 (Q&A 含めず)
 - **スライド数:** 15
 - **対象:** 現職教員、管理職、教育委員会、教職員研修担当、企業内教育担当、
@@ -195,4 +195,4 @@
 
 ---
 
-<sub>本コンテキストは [CC BY-NC 4.0](../../LICENSE) の下で提供されます。</sub>
+<sub>本コンテキストは [CC BY-NC 4.0](../LICENSE) の下で提供されます。</sub>
